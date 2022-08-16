@@ -50,7 +50,7 @@ Projeto criado para o curso "Formação em Linux Fundamentals" da DIO.
 
 ### Módulo 5: Linux Desktop: Ferramentas Importantes para o Desenvolvimento
 
-- Conhecendo o Linux Desktop
-- Materiais Complementares - Linux Desktop: Ferramentas Importantes para o Desenvolvimento
+- Conhecendo o Linux Desktop ✅
+- Materiais Complementares - Linux Desktop: Ferramentas Importantes para o Desenvolvimento ✅
 
 ---
